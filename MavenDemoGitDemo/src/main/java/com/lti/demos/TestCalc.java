@@ -12,7 +12,8 @@ public class TestCalc {
 		
 		int s= c.addNos(4, 798);
 		System.out.print(s);
-		
+		System.out.println("helllo");
+		System.out.println("added a new line");
 	}
 
 }
